@@ -47,9 +47,11 @@ body {
   text-align: center;
 }
 .contries a {
-  text-decoration: underline;
   font-size: 10px;
   color: #128aa7;
+}
+.contries a:hover {
+  text-decoration: underline;
 }
 .photo {
   clear: both;
